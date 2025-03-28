@@ -9,22 +9,19 @@ Maleesha Sandakalum</a></h1>
 <td width="50%" align="left">
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I’m currently working on  Soy Estudiante <strong>MERN</strong></p>
+<p dir="auto">🔭 I’m currently working on  Allianz Insurance Lanka Limited</p>
 </li>
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>MERN</strong></p>
+<p dir="auto">🌱 I’m currently learning <strong>REACT</strong></p>
 </li>
 <li>
-<p dir="auto">🧑‍🎓 I’m an Undergraduate at <strong>SLIIT</strong></p>
+<p dir="auto">💬 Ask me about <strong>Java, Spring Boot, Microservices, Angular, React</strong></p>
 </li>
 <li>
-<p dir="auto">💬 Ask me about <strong>Java</strong></p>
+<p dir="auto">📫 How to reach me <strong><a href="sandakalummaleesha99@gmail.com">sandakalummaleesha99@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:kaveen.dinethma@gmail.com">kaveen.dinethma@gmail.com</a></strong></p>
-</li>
-<li>
-<p dir="auto">⚡ Fun fact <strong>Call me as KD</strong></p>
+<p dir="auto">⚡ Fun fact <strong>Call me as Maleesha</strong></p>
 </li>
 </ul>
 </td>

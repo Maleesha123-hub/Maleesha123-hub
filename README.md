@@ -45,4 +45,18 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" alt="Skills">
 </h2>
 
-<p
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,html,css,js,ts,postgres,mysql,mongodb,git,github,docker,redis,postman,vscode&perline=14" alt="Tech Stack" />
+  </a>
+</p>
+
+<h2>Connect with me 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" alt="Connect">
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maleesha-sandakalum/" target="blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+</p>

@@ -37,15 +37,20 @@ Maleesha Sandakalum</a></h1>
 <h2> My Statistics <img src = "https://media.giphy.com/media/OJTxHkKwcM5lfi2OnW/giphy.gif?cid=790b7611473c9mrdr6onpaitxpb60jn8dwoeuqch5vsle5mm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 32px> </h2>
   <a id="user-content-my-statistics" class="anchor" aria-label="Permalink: My Statistics:" href="#my-statistics"></a></div>
 
-<markdown-accessiblity-table data-catalyst=""><table align="center">
+<markdown-accessiblity-table data-catalyst="">
+<table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b438a7965dc20bc1a42c9ae6cf8dd48607d46686dfc4c99b4bb7d37a3837bb03/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5363617231313039267468656d653d6461726b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565"><img align="center" src="https://camo.githubusercontent.com/b438a7965dc20bc1a42c9ae6cf8dd48607d46686dfc4c99b4bb7d37a3837bb03/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5363617231313039267468656d653d6461726b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Maleesha123-hub&amp;theme=dark&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;"></a>
-  <br><br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ecf713f4e61aec3d5223d59d3116bafb1228a34344fa3f853715d2c5f32c9a83/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5363617231313039267468656d653d6461726b26686964655f626f726465723d66616c7365"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://camo.githubusercontent.com/ecf713f4e61aec3d5223d59d3116bafb1228a34344fa3f853715d2c5f32c9a83/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5363617231313039267468656d653d6461726b26686964655f626f726465723d66616c7365" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Maleesha123-hub&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;"></a> 
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Maleesha123-hub&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Maleesha123-hub&theme=dark&hide_border=false" /> 
 </td>
+
 <td width="50%" align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d6c6140f14246135dcb79509fad46805fdbfb407e0a193b9c6bf21b136dbf19/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5363617231313039267468656d653d6461726b26686964655f626f726465723d66616c7365266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130"><img align="center" src="https://camo.githubusercontent.com/0d6c6140f14246135dcb79509fad46805fdbfb407e0a193b9c6bf21b136dbf19/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5363617231313039267468656d653d6461726b26686964655f626f726465723d66616c7365266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Maleesha123-hub&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" style="max-width: 100%;"></a>
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Maleesha123-hub&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
   </td>
 </tr>
 </tbody></table></markdown-accessiblity-table>

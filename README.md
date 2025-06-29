@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-      <img src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://drive.google.com/file/d/1XaSTPxpe10Ecgiz04ZxGudJpbhnKOPTX/view?usp=drive_link)" alt="Coding" width="450" />
+      <img src="https://drive.google.com/file/d/1XaSTPxpe10Ecgiz04ZxGudJpbhnKOPTX/view?usp=drive_link" alt="Coding" width="450" />
     </td>
   </tr>
 </table>

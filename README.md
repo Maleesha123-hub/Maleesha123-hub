@@ -13,7 +13,7 @@
         <li>🌱 Learning <strong>React</strong> to expand my full-stack skills.</li>
         <li>💻 Experienced in <strong>Java, Spring Boot, Microservices, Angular, and React</strong>.</li>
         <li>📫 Reach me at <strong><a href="mailto:sandakalummaleesha99@gmail.com">sandakalummaleesha99@gmail.com</a></strong>.</li>
-        <li>⚡ Fun fact: <strong>Call me Maleesha!</strong></li>
+<!--         <li>⚡ Fun fact: <strong>Call me Maleesha!</strong></li> -->
       </ul>
     </td>
 <!--     <td width="50%" align="center">

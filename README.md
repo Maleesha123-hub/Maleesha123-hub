@@ -10,7 +10,7 @@
     <td width="50%" align="left">
       <ul>
         <li>🔭 Currently working at <strong>Allianz Insurance Lanka Limited</strong></li>
-        <li>🌱 Learning <strong>React</strong> to expand my full-stack skills</li>
+        <li>🌱 Learning Exploring observability and monitoring practices in Site Reliability Engineering (SRE) — working with tools like Prometheus, Grafana, Loki, and Tempo to improve system reliability, metrics collection, and log/trace analysis</li>
         <li>💻 Experienced in <strong>Java, Spring Boot, Microservices, Angular, and React</strong></li>
         <li>📫 Reach me at <strong><a href="mailto:sandakalummaleesha99@gmail.com">sandakalummaleesha99@gmail.com</a></strong></li>
 <!--         <li>⚡ Fun fact: <strong>Call me Maleesha!</strong></li> -->

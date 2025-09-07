@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,html,css,js,ts,postgres,mysql,mongodb,git,github,docker,redis,postman,vscode&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,html,css,js,ts,postgres,mysql,mongodb,git,github,docker,redis,postman,vscode,loki&perline=14" alt="Tech Stack" />
   </a>
 </p>
 

@@ -10,7 +10,7 @@
     <td width="50%" align="left">
       <ul>
         <li>🔭 Currently working at <strong>Allianz Insurance Lanka Limited</strong></li>
-        <li>🌱 Learning, exploring Full stack <strong>generative</strong> and <strong>Agentic AI </strong> with <strong>Python</strong></li>
+        <li>🌱 Learning, exploring <strong>Full Stack Generative</strong> and <strong>Agentic AI </strong> with <strong>Python</strong></li>
         <li>💻 Experienced in <strong>Java, Spring Boot, Microservices, Angular, and React</strong></li>
         <li>📫 Reach me at <strong><a href="mailto:sandakalummaleesha99@gmail.com">sandakalummaleesha99@gmail.com</a></strong></li>
 <!--         <li>⚡ Fun fact: <strong>Call me Maleesha!</strong></li> -->
